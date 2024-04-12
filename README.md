@@ -1,13 +1,13 @@
-# Cagnot'Potes
+# Cagnot'Potes 💰
 
 Cagnot'Potes is a Symfony project that aims to provide a platform similar to GoFundMe, where users can create fundraising campaigns for various causes and receive donations from others.
 
-## Screenshots
+## Screenshots 📸
 
 ![CagnotPotes-homepage-preview](https://raw.githubusercontent.com/n-ypy/ReadMeAssetsVault/main/CagnotPotes/home.png)
 ![CagnotPotes-homepage-preview](https://raw.githubusercontent.com/n-ypy/ReadMeAssetsVault/main/CagnotPotes/show.png)
 
-## Installation
+## Installation 🛠️
 
 To run this project locally, follow these steps:
 
@@ -37,4 +37,4 @@ To run this project locally, follow these steps:
    symfony server:start
    ```
 
-6. Access the application in your web browser at `http://localhost:8000`.
+6. Access the application in your web browser at `http://localhost:8000` 🌐.
