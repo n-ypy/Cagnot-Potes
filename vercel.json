@@ -1,11 +1,14 @@
 {
     "functions": {
         "api\/*.php": {
-            "runtime": "vercel-php@0.6.1"
+            "runtime": "vercel-php@0.7.3"
         }
     },
-    "env": {
+    "build": {
+      "env": {
+        "APP_SECRET": "d58afabf89a4b36d16dbacdf096ca84f",
         "APP_ENV": "prod"
+      }
     },
     "routes": [
         {

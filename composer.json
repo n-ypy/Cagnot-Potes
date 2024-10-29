@@ -85,8 +85,7 @@
         ],
         "vercel": [
             "@php bin\/console cache:clear --env=prod",
-            "@php bin\/console assets:install public --env=prod",
-            "@php bin\/console asset-map:compile --env=prod"
+            "@php bin\/console assets:install public --env=prod"
         ]
     },
     "conflict": {
