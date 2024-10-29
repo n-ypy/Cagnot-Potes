@@ -1,0 +1,17 @@
+{
+    "functions": {
+        "api/index.php": {
+            "runtime": "vercel-php@0.7.3"
+        }
+    },
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/api/index.php"
+        }
+    ],
+    "env": {
+        "APP_ENV": "dev",
+        "APP_SECRET": "d58afabf89a4b36d16dbacdf096ca84f"
+    }
+}
